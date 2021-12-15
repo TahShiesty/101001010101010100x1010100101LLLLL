@@ -42,7 +42,7 @@ end
 
 local Script = {
 Version = "v0.0.5",
-Name = "keeware-priv"
+Name = "Wock$tars Priv"
 }
 
 local Settings = {
